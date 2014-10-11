@@ -1,4 +1,4 @@
-# Afterglow iTerm Color
+# Afterglow iTerm Color Scheme
 
 A color scheme for [iTerm2](http://iterm2.com/) based on [Afterglow Theme for Sublime Text](https://github.com/YabataDesign/afterglow-theme).
 
